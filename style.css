@@ -1,0 +1,13 @@
+.styled-button{
+  border: 5px solid white;
+  border-radius: 2.5px;
+  background-color: transparent;
+  color: white;
+  transition: all 0.5s;
+
+}
+.styled-button:hover{
+  color: gray;
+  background-color: white;
+  transform: translateY(-5px);
+}
